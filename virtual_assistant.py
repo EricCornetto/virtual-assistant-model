@@ -1,4 +1,4 @@
-# ========================Virtual Assistant ===================================
+# ========================Virtual Assistant Model =============================
 #  *   Virtual Assistant Python.
 # =============================================================================
 #  *   Created By Eric Theodore Cornetto(Ida Bagus Dwi Putra Purnawa).
