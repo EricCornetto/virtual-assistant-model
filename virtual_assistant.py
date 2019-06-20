@@ -88,3 +88,4 @@ class VirtualAssistant():
         if "open Steam" in data:
             self. speak("Ok Open Steam")
             os.startfile('C:\\Program Files (x86)\Steam\Steam.exe')
+                
